@@ -1,3 +1,5 @@
+This is a testbed for code in Gatsby, based off of the Gatsby Starter (obvs).
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
